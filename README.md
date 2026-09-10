@@ -1,2 +1,2 @@
 # Amazon-Product-Analysis
-Amazon Product Analysis Dashboard using Power BI
+Amazon Product Analysis Dashboard developed using Power BI to analyze and visualize Amazon product data. The dashboard provides insights into product ratings, discount percentages, actual and discounted prices, product categories, and customer reviews. Interactive charts, KPI cards, and slicers are used to explore the data and identify important product trends and patterns.
